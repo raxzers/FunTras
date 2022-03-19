@@ -1,8 +1,8 @@
 name: FunTras
 version: 1.1.0
 date: 2022-03-20
-author: Gabriel Conejo Valerio <raxzers@estudiantec.cr>
-maintainer: Gabriel Conejo Valerio <raxzers@estudiantec.cr>
-title: paquete de la tarea1
+author: Yordi Brenes Roda, Gabriel Antonio Conejo Valerio,Ricardo Gatgens Rodriguez,Ignacio Morales Chang
+maintainer: Yordi Brenes Roda, Gabriel Antonio Conejo Valerio,Ricardo Gatgens Rodriguez,Ignacio Morales Chang
+title: Paquete funtras
 categories: package
 depends: octave (>= 4.0.0)
