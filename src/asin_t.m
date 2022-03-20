@@ -4,7 +4,7 @@ function y=asin_t(x)
   suma = 0;
   if x >= -1 && x <= 1
     for n=0:iterMax
-      n;
+      n
       #xdiv = div_t((4^n)*(factorial(n))^2*((2*n)+1));
       xdiv = div_t(4^n)*div_t((factorial(n))^2)*div_t((2*n)+1);
       
